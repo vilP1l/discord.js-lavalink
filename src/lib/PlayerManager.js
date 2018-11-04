@@ -157,7 +157,7 @@ class PlayerManager extends Collection {
      * PlayerManager.leave("412180910587379712");
      */
     leave(guild) {
-        this.client.guilds.get(data.guild).shard.send({
+        this.client.guilds.get(guild).shard.send({
             op: 4,
             d: {
                 guild_id: guild,

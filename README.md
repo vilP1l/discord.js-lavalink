@@ -1,5 +1,4 @@
 [![Discord](https://discordapp.com/api/guilds/412180910587379712/embed.png)](https://discord.gg/QJnGhnn)
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/discord.js-lavalink)
 
 # discord.js-lavalink
 A Discord.js lavalink client that works with the newest master / internal sharding version of discord.js

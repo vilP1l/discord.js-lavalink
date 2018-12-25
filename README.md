@@ -8,7 +8,7 @@ A Discord.js lavalink client that works with the newest master / internal shardi
 
 ## Installation
 
-```npm install https://github.com/vilP1l/discord.js-lavalink-internal-sharding```
+```npm install https://github.com/vilP1l/discord.js-v12-lavalink```
 ## LavaLink configuration
 Download from [the CI server](https://ci.fredboat.com/viewLog.html?buildId=lastSuccessful&buildTypeId=Lavalink_Build&tab=artifacts&guest=1)
 
